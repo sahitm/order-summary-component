@@ -1,0 +1,86 @@
+.content{
+    padding: 2rem;
+    background-color: hsl(225, 100%, 94%);
+}
+
+.container{
+
+    background-color: white;
+    border: 2px;
+    border-radius: 2rem;
+    box-shadow: hsl(225, 89%, 4%);
+    padding: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    place-content: center;
+    
+    
+}
+.manpic{
+    border-radius: 1rem;
+}
+
+h1{
+    align-self: center;
+    text-align: center;
+}
+
+article{
+    
+    border-radius: 2rem;
+    margin: 2rem;
+    align-self: center;
+    
+    text-align: center;
+}
+
+.plan{
+
+    
+    align-self: center;
+    background-color: hsl(223, 26%, 95%);
+    border-radius: 2rem;
+    
+    display: flex;
+    flex-direction: row;
+}
+
+.price{
+    margin: 3vw;
+}
+
+.change{
+    align-self: center;
+}
+
+#cost{
+    color: hsla(224, 14%, 30%, 0.582);
+}
+
+.payment{
+    align-self: center;
+    background-color: hsl(245, 75%, 52%);
+    color: white;
+    padding: 2rem;
+    border-radius: 2rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.order{
+    align-self: center;
+    margin-bottom: 1rem;
+    
+}
+
+
+
+.attribution {
+      font-size: 11px;
+      text-align: center;
+      
+      
+    }
+.attribution a {
+      color: hsl(228, 45%, 44%);
+    }
